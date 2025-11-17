@@ -12,7 +12,7 @@ node_modules
 database.sqlite
 
 .env
-.env.*
+.env
 
 package-lock.json
 yarn.lock
